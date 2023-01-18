@@ -1,0 +1,8 @@
+---
+title: "Grammatical Relations in Yami"
+author: "Greg Vondiziano"
+date: "2023-01-18"
+categories: [Taiwan, Philippine-type, syntax]
+---
+
+Here is the abstract.
