@@ -11,4 +11,6 @@ page-layout: full
 title-block-banner: true
 ---
 
+The Austronesian Circle is a discussion group hosted by the Department of Linguistics at the University of Hawai‘i at Mānoa.
 
+Below are list of presentations with the most recent appearing at the top.
