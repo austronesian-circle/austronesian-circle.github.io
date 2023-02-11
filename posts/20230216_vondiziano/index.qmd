@@ -1,0 +1,9 @@
+---
+title: "The syntax of Hawaiian actor-emphatic constructions: A preliminary analysis"
+author: "Greg Vondiziano"
+date: "2023-02-16"
+image: presenter.jpg
+categories: [Polynesian, Hawaiian, syntax]
+---
+
+The actor-emphatic (AE) construction is widely attested in East Polynesian (EP) languages and has been seen as a feature characteristic of this sub-group (Clark 1976; Harlow 1986). Pragmatically, AE constructions explicitly draw attention to who or what did the action denoted by the verb, thus ʻfocusing’ the agent argument, and are a productive strategy for forming subject wh-questions. Despite their relative ubiquity in EP languages, however, AE constructions have only been studied in any detail for Māori (Bauer 2004; Clark 1976; Chung 1978; Pearce 1999; Waite 1990, and others) and Tahitian (Potsdam and Polinsky 2012). While the AE in Hawaiian is routinely presented in pedagogical materials for the language (Elbert and Pukui 1979; Hopkins 1992, and others), previous linguistic treatment is limited to an analysis using the Generative Case model in the doctoral work of Emily Hawkins (1979). In this talk, I report the morphosyntactic facts for Hawaiian AE, using data from TAM marking, interrogatives, reflexive binding, relativization, and topicalization to argue that Hawaiian actor-emphatics can be analyzed as a type of (pseudo-)cleft construction composed of a matrix predicate and a dependent clause. I will then compare these results to those reported for Maori and Tahitian and position them within a broader typology of wh-question formation in Polynesian.

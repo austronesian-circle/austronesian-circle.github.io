@@ -1,0 +1,10 @@
+---
+title: "Rethinking Indonesian-type passives: Lessons from Javanese "
+author: "Hero Patrianto and Victoria Chen"
+date: "2023-03-31"
+categories: [syntax, Javanese, Indonesian-type]
+---
+
+Austronesian languages known as the Indonesian-type are traditionally considered split ergative languages wherein the Austronesian-type active-undergoer voice contrast co-occurs with Indo-European-style passive voice. In this presentation we demonstrate instead that one of these languages—Javanese—is not as typologically unusual as previously thought. Previously overlooked aspects of Javanese syntax show that the language is best viewed as exhibiting a run-of-the-mill accusative case system wherein the so-called “active vs. object voice alternation” indexes subject vs. nonsubject topicalization. We then present independent evidence that Javanese’s so-called “passive construction” is essentially an object voice construction that contains a third-person subject/initiator. Accordingly, Javanese does not exhibit an Indo-European-type passive, contra previous views. We conclude that Javanese exhibits a reduced Philippine-style voice system where voice alternation is an Ā-phenomenon associated with topicalization and not argument structure alternation, similar to the “voice” system of Tagalog (Shibatani 1988; Richards 2000; Chen 2017), Malagasy (Pearson 2005), and Puyuma (Chen 2017) and the Nilotic languages Dinka (van Urk 2015) and Kurmuk (Anderson 2015). 
+
+This new analysis of Javanese voice has important broader implications for our understanding of the syntactic typology of voice. Not only does it reveal a new locus of variation within languages considered to have a “hybrid” voice system, but it also reveals previously unknown variation within a cline of constructions traditionally called the Indonesian-type passives, many of which have recently been shown to be structurally similar to Indo-European-type passives (e.g. Indonesian: Aldridge 2008; Acehese: Legate 2012, 2014).
